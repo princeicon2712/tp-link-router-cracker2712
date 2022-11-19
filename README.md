@@ -1,1 +1,3 @@
-# tp-link-router-cracker2712
+# tp-link-router-Broutfos-admin-panel-hack
+
+python দিয়ে চালাতে হবে
